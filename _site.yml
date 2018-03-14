@@ -3,11 +3,11 @@ output_dir: "."
 navbar:
   title: "Andrea Natalia Peña Malavera"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
     - text: "About"
       href: about.html
       output:
   html_document:
-    theme: cosmo
+    theme: united
     highlight: textmate
